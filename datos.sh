@@ -7,3 +7,4 @@ echo "Ingresa tu edad:"
 read edad
 
 echo "Tu nombre es $nombre y tienes $edad años"
+
